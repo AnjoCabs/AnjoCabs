@@ -95,6 +95,78 @@ I am an analytical and detail-driven Data Analyst with **2+ years of experience*
 
 ---
 
+#### 10. 🚖 [Uber Ride Booking SQL Data Analysis Project](https://github.com/AnjoCabs/010-Uber-Data-Analysis-SQL-Project)
+> **Tools:** MySQL
+* This project demonstrates SQL-based exploratory data analysis (EDA) on an Uber ride booking dataset. The objective is to answer real-world business questions that can help ride-sharing companies improve operations, maximize revenue, reduce cancellations, enhance customer satisfaction, and optimize driver performance.
+* The project contains 24 business-driven SQL queries covering revenue analysis, ride demand, customer behavior, cancellation analysis, driver performance, and operational insights.
+* 📂 [View Repository](https://github.com/AnjoCabs/010-Uber-Data-Analysis-SQL-Project/blob/main/uberdataanalysis.sql)
+
+---
+
+#### 11. 📞 [Call Center Performance Analysis Using SQL ](https://github.com/AnjoCabs/011-Sales-Marketing-Call-Center)
+> **Tools:** MySQL
+* This project showcases SQL-based exploratory data analysis (EDA) on a Call Center dataset. The goal is to analyze call center operations by evaluating agent performance, call outcomes, customer behavior, and operational efficiency through real-world business questions.
+* The repository contains 15 SQL queries that provide actionable insights into call volume, abandoned calls, successful interactions, repeat customers, and product discussions. These analyses demonstrate how SQL can be used to transform raw operational data into meaningful business intelligence.
+* 📂 [View Repository](https://github.com/AnjoCabs/011-Sales-Marketing-Call-Center/blob/main/SalesMarketingCallCenters.txt)
+
+---
+
+#### 12. 📈 [Walmart Sales Analysis — SQL Project](https://github.com/AnjoCabs/012-Walmart2-Analysis-SQLProject/blob/main/012-Walmart2-Analysis-SQLProject.sql)
+> **Tools:** MySQL
+* The analysis explores Walmart weekly sales data across stores and departments while examining the impact of holidays, store characteristics, time-based trends, and external economic factors such as temperature, fuel price, CPI, and unemployment.
+* The project contains 20 analytical SQL questions, progressing from basic sales aggregation to advanced analysis using window functions, subqueries, conditional aggregation, joins, and statistical calculations.
+* 📂 [View Repository](https://github.com/AnjoCabs/012-Walmart2-Analysis-SQLProject/blob/main/012-Walmart2-Analysis-SQLProject.sql)
+
+---
+
+#### 13. 🏥 [Hospital Patient & Healthcare Analytics Using SQL](https://github.com/AnjoCabs/013-Health-Care-Provider-Data-Analysis-SQL-Project)
+> **Tools:** MySQL
+* This project demonstrates SQL-based exploratory data analysis (EDA) on a hospital management dataset. The objective is to analyze patient visits, healthcare revenue, provider performance, insurance coverage, patient satisfaction, referral patterns, and operational efficiency using real-world business questions.
+* 📂 [View Repository](https://github.com/AnjoCabs/013-Health-Care-Provider-Data-Analysis-SQL-Project/blob/main/healthcareprovidedataset3.sql)
+
+---
+
+#### 14. ☕ [Coffee Shop Sales Analysis Using SQL](https://github.com/AnjoCabs/014-Coffee-Shop-Sales-Analysis-SQL-Project)
+> **Tools:** MySQL
+* This project demonstrates SQL-based exploratory data analysis (EDA) on a coffee shop sales dataset. The objective is to analyze sales performance, customer purchasing behavior, product performance, store profitability, and sales trends using real-world business questions.
+* 📂 [View Repository](https://github.com/AnjoCabs/014-Coffee-Shop-Sales-Analysis-SQL-Project/blob/main/014-Coffee-Shop-Sales-Analysis-SQL-Project.sql)
+
+---
+
+#### 15. 🎗️ [Cancer Patient Analytics Using SQL](https://github.com/AnjoCabs/015-Lung-Cancer-Analysis-SQL-Project)
+> **Tools:** MySQL
+* This project demonstrates SQL-based exploratory data analysis (EDA) on a cancer patient dataset. The objective is to analyze patient demographics, cancer progression, treatment outcomes, survival rates, and health risk factors to uncover meaningful insights that support healthcare research and data-driven decision-making.
+* 📂 [View Repository](https://github.com/AnjoCabs/015-Lung-Cancer-Analysis-SQL-Project/blob/main/015-Lung-Cancer-Analysis-SQL-Project.sql)
+
+---
+
+#### 16. 🏥 [Hospital Patient Response & Admission Analysis Using SQL](https://github.com/AnjoCabs/016-Emergency-Response-Analysis-SQL-Project)
+> **Tools:** MySQL
+* This project demonstrates SQL-based exploratory data analysis (EDA) on a hospital patient response dataset. The objective is to analyze patient admissions, demographics, satisfaction scores, wait times, department performance, and operational efficiency through real-world healthcare business questions.
+* 📂 [View Repository](https://github.com/AnjoCabs/016-Emergency-Response-Analysis-SQL-Project/blob/main/ERhospitalDataAnalysis.sql)
+
+---
+
+#### 17. 📊 [Sales Performance Analytics Using SQL](https://github.com/AnjoCabs/017-Supermarket-Sales-Analysis-SQL-Project)
+> **Tools:** MySQL
+* This project showcases SQL-based Exploratory Data Analysis (EDA) on a retail sales dataset to uncover actionable business insights related to sales performance, customer behavior, product trends, regional performance, and employee productivity.
+* 📂 [View Repository](https://github.com/AnjoCabs/017-Supermarket-Sales-Analysis-SQL-Project/blob/main/017-Supermarket-Sales-Analysis-SQL-Project.sql)
+
+---
+
+#### 18. 📊 [Personal Finance Analysis using SQL](https://github.com/AnjoCabs/018-Financial-Data-Analysis-SQL-Project)
+> **Tools:** MySQL
+* This project demonstrates how SQL can be used to analyze personal financial data and uncover meaningful insights about income, expenses, savings, investments, and financial trends. The analysis focuses on understanding spending habits, monitoring financial health, identifying expense patterns, and evaluating long-term wealth growth.
+* 📂 [View Repository](https://github.com/AnjoCabs/018-Financial-Data-Analysis-SQL-Project)
+
+---
+
+#### 19.  [SQL Window Functions Practice Project](https://github.com/AnjoCabs/019-HealthCareProject-SQL-Project-WindowsFunctionPractice)
+> **Tools:** MySQL
+* TThis project is a collection of real-world SQL Window Function exercises built around a Hospital Management Dataset. The goal is to strengthen advanced SQL skills by solving analytical business problems using ranking, running totals, moving averages, cumulative calculations, comparative analysis, and advanced window functions.
+* 📂 [View Repository](https://github.com/AnjoCabs/019-HealthCareProject-SQL-Project-WindowsFunctionPractice/blob/main/019-HealthCareProject-SQL-Project-(WindowsFunctionPractice).sql)
+
+---
 
 ### 📊 GitHub Stats
 
