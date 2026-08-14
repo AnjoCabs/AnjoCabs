@@ -1,11 +1,12 @@
 # Hi there, I'm Billy 👋
 ### Data & Business Intelligence Analyst | Remote Professional
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com)
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-Streamlit-FF4B4B?style=flat&logo=streamlit)](https://your-app-name.streamlit.app)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail)](mailto:your.email@example.com)
 
-[👇 Jump directly to my Featured Projects](#-featured-analytics--bi-projects)
+[![SQL Project](https://img.shields.io/badge/SQL_Projects-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](#-featured-analytics--bi-projects)
 
 ---
 
