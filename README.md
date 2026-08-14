@@ -2,11 +2,6 @@
 # Hi there, I'm Billy 👋
 ### Data & Business Intelligence Analyst | Remote Professional
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Streamlit-FF4B4B?style=flat&logo=streamlit)](https://your-app-name.streamlit.app)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail)](mailto:your.email@example.com)
-
 [![SQL Project](https://img.shields.io/badge/SQL_Projects-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](#sql-projects)
 [![Power BI Project](https://img.shields.io/badge/Power_BI_Projects-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#power-bi-projects)
 
@@ -261,17 +256,4 @@ I am an analytical and detail-driven Data Analyst with **2+ years of experience*
 <img width="1372" height="767" alt="SalesAndFinancial Dashboard" src="https://github.com/user-attachments/assets/7c750cb9-9d46-49ca-ad2b-7689c340fa9f" />
 
 ---
-### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</p>
-
----
-
-### 📫 Let's Connect!
-
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
-* **Portfolio Hub:** [your-app-name.streamlit.app](https://your-app-name.streamlit.app)
