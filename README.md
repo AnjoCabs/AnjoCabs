@@ -5,15 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-Streamlit-FF4B4B?style=flat&logo=streamlit)](https://your-app-name.streamlit.app)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail)](mailto:your.email@example.com)
 
-## 🗺️ Quick Project Navigation
-
-Jump directly to any project repository below:
-
-| Technology | Project Name | Description | Direct Link |
-| :--- | :--- | :--- | :--- |
-| **SQL** | Inventory Analysis & Queries | Complex joins, window functions, and inventory valuation | [![SQL Repo](https://img.shields.io/badge/Open_SQL_Repo-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/AnjoCabs/AnjoCabs/edit/main/README.md#-featured-analytics--bi-projects) |
-| **Power BI** | Interactive Inventory Dashboard | Star schema model, DAX measures, and dynamic forecasting | [![Power BI Repo](https://img.shields.io/badge/Open_Power_BI_Repo-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://github.com/JohnDomenic/YOUR-POWERBI-REPO-NAME) |
-| **Excel** | Fleet & Expense Tracker | Advanced formulas (XLOOKUP, Dynamic Arrays) & KPI dashboard | [![Excel Repo](https://img.shields.io/badge/Open_Excel_Repo-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://github.com/JohnDomenic/YOUR-EXCEL-REPO-NAME) |
+[👇 Jump directly to my Featured Projects](#-featured-analytics--bi-projects)
 
 ---
 
