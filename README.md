@@ -163,11 +163,55 @@ I am an analytical and detail-driven Data Analyst with **2+ years of experience*
 
 #### 19.  [SQL Window Functions Practice Project](https://github.com/AnjoCabs/019-HealthCareProject-SQL-Project-WindowsFunctionPractice)
 > **Tools:** MySQL
-* TThis project is a collection of real-world SQL Window Function exercises built around a Hospital Management Dataset. The goal is to strengthen advanced SQL skills by solving analytical business problems using ranking, running totals, moving averages, cumulative calculations, comparative analysis, and advanced window functions.
+* This project is a collection of real-world SQL Window Function exercises built around a Hospital Management Dataset. The goal is to strengthen advanced SQL skills by solving analytical business problems using ranking, running totals, moving averages, cumulative calculations, comparative analysis, and advanced window functions.
 * 📂 [View Repository](https://github.com/AnjoCabs/019-HealthCareProject-SQL-Project-WindowsFunctionPractice/blob/main/019-HealthCareProject-SQL-Project-(WindowsFunctionPractice).sql)
 
 ---
 
+#### 20.  [SQL Window Functions Practice Project – Hospital Management Analytics](https://github.com/AnjoCabs/020-HospitalData-SQL-Project-WindowsFunctionPractice)
+> **Tools:** MySQL
+* This repository is a collection of advanced SQL Window Function exercises based on a Hospital Management System database. The project focuses on solving real-world healthcare business problems using SQL analytical functions such as ranking, cumulative totals, moving averages, partitions, and percentile grouping.
+* 📂 [View Repository](https://github.com/AnjoCabs/020-HospitalData-SQL-Project-WindowsFunctionPractice/blob/main/020-HospitalData-SQL-Project-(WindowsFunctionPractice).sql)
+
+---
+
+#### 21.  [SQL Window Functions Practice Project: Logistics & Supply Chain Analytics](https://github.com/AnjoCabs/021-Supply-Chain-Logistics-SQL-Project-WindowsFunctionPractice)
+> **Tools:** MySQL
+* The project demonstrates how SQL Window Functions can solve complex business problems involving shipment analysis, warehouse operations, customer segmentation, carrier performance, and logistics reporting.
+* 📂 [View Repository](https://github.com/AnjoCabs/021-Supply-Chain-Logistics-SQL-Project-WindowsFunctionPractice/blob/main/021-Supply-Chain-Logistics-SQL-Project-(WindowsFunctionPractice).sql)
+
+---
+
+#### 22.  [SQL Window Functions Practice Project: Retail Sales Analytics](https://github.com/AnjoCabs/022-Waltermart2-SQL-Project-WindowsFunctionPractice)
+> **Tools:** MySQL
+* This repository contains a collection of advanced SQL Window Function exercises designed around a realistic Retail Sales dataset. The project focuses on analyzing store and department performance using analytical SQL techniques to uncover business insights.
+* The queries demonstrate how SQL Window Functions can solve real-world retail analytics problems such as sales ranking, cumulative totals, moving averages, percentile analysis, and performance benchmarking.
+* 📂 [View Repository](https://github.com/AnjoCabs/022-Waltermart2-SQL-Project-WindowsFunctionPractice/blob/main/022-Waltermart2-SQL-Project-WindowsFunctionPractice.sql)
+
+---
+
+#### 23.  [SQL Window Functions Practice Project - Blinkit Sales Analytics](https://github.com/AnjoCabs/023-Blinkit-SQL-Project-WindowsFunctionPractice)
+> **Tools:** MySQL
+* This project demonstrates the practical application of SQL Window Functions using a retail grocery delivery dataset inspired by Blinkit. The objective is to strengthen analytical SQL skills by solving real-world business problems involving customer behavior, sales performance, store analytics, product rankings, cumulative metrics, and revenue contribution.
+* 📂 [View Repository](https://github.com/AnjoCabs/023-Blinkit-SQL-Project-WindowsFunctionPractice/blob/main/023-Blinkit-SQL-Project-WindowsFunctionPractice.sql)
+
+---
+
+#### 24. 🛒  [Shopify Sales Data Warehouse & SQL Analytics Project](https://github.com/AnjoCabs/024-E-Commerce-Shopify-Analysis-SQL-Project)
+> **Tools:** MySQL
+* A complete SQL project that demonstrates how to transform raw Shopify sales data into a simple Data Warehouse (Star Schema) and perform advanced business analytics using MySQL Window Functions.
+* This project covers dimensional modeling, fact table creation, customer segmentation, sales ranking, revenue contribution analysis, and customer purchasing behavior.
+* 📂 [View Repository](https://github.com/AnjoCabs/024-E-Commerce-Shopify-Analysis-SQL-Project/blob/main/024-E-Commerce-Shopify-Analysis-SQL-Project.sql)
+
+---
+
+#### 25. 🛒  [ECommerse Analysis SQL Project](https://github.com/AnjoCabs/025-ECommerse-Analysis-SQL-Project)
+> **Tools:** MySQL
+* This project demonstrates how SQL can be used to perform exploratory data analysis (EDA) and generate actionable business insights from an E-Commerce Sales Dataset. The analysis focuses on customer purchasing behavior, sales performance, profitability, regional trends, shipping efficiency, and product performance using MySQL.
+* The repository showcases practical SQL techniques commonly used by Data Analysts and Business Intelligence professionals, including aggregations, Common Table Expressions (CTEs), window functions, ranking functions, grouping, filtering, and date analysis.
+* 📂 [View Repository](https://github.com/AnjoCabs/025-ECommerse-Analysis-SQL-Project/blob/main/025-ECommerse-Analysis-SQL-Project.sql)
+
+---
 ### 📊 GitHub Stats
 
 <p align="left">
