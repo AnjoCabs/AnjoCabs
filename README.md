@@ -6,9 +6,8 @@
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-Streamlit-FF4B4B?style=flat&logo=streamlit)](https://your-app-name.streamlit.app)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail)](mailto:your.email@example.com)
 
-[![SQL Project](https://img.shields.io/badge/SQL_Projects-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](#-featured-analytics--bi-projects)
-
----
+[![SQL Project](https://img.shields.io/badge/SQL_Projects-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](#sql-projects)
+[![Power BI Project](https://img.shields.io/badge/Power_BI_Projects-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#power-bi-projects)
 
 ---
 
@@ -33,12 +32,14 @@ I am an analytical and detail-driven Data Analyst with **2+ years of experience*
 
 ---
 
+## SQL Projects
+
 ### 🚀 Featured Analytics & BI Projects
 
 #### 1. 🚚 [Supply Chain and Logistics Analytsis Using SQL](https://github.com/AnjoCabs/sql-analytics-projects#-supply-chain-and-logistics-analytics-using-sql)
 > **Tools:** MySQL
 * This project demonstrates how SQL can be used to solve real-world supply chain and logistics business problems. Using a relational database built in MySQL, the analysis explores transportation performance, warehouse utilization, freight costs, customer demand, route optimization, and operational efficiency through business-driven SQL queries.
-*  📂 [View Repository](https://github.com/AnjoCabs/sql-analytics-projects/blob/main/01-supplychain-logistics-analysis.sql)
+* 📂 [View Repository](https://github.com/AnjoCabs/sql-analytics-projects/blob/main/01-supplychain-logistics-analysis.sql)
 
 ---
 
@@ -217,6 +218,17 @@ I am an analytical and detail-driven Data Analyst with **2+ years of experience*
 * 📂 [View Repository](https://github.com/AnjoCabs/025-ECommerse-Analysis-SQL-Project/blob/main/025-ECommerse-Analysis-SQL-Project.sql)
 
 ---
+
+## Power BI Projects
+
+#### 1. 📦 [E-Commerce Inventory Forecasting & Valuation Model](https://github.com/AnjoCabs/inventory-forecasting-model)
+> **Tools:** Power BI, Power Query, DAX
+* Developed an end-to-end multi-variable inventory model tracking demand forecasting, safety stock, and reorder points across hundreds of SKUs.
+* Implemented ABC/XYZ inventory segmentation to isolate slow-moving stock and optimize holding costs.
+* 📂 [View Repository](https://github.com/AnjoCabs/inventory-forecasting-model)
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="left">
