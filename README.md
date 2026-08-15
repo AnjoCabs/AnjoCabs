@@ -215,6 +215,14 @@ I am an analytical and detail-driven Data Analyst with **2+ years of experience*
 
 ---
 
+#### 26. 🛒  [Sales and Finance Analysis](https://github.com/AnjoCabs/026-SalesAnalysis-SQL-Project)
+> **Tools:** MySQL
+* This Sales & Finance Analysis SQL Project uses MySQL to analyze transactional sales data and generate meaningful business insights. The project focuses on evaluating sales performance, revenue, profitability, customer behavior, product performance, and sales territory contribution.
+* Using a structured fact-and-dimension data model, the project applies SQL techniques to transform raw transactional data into useful business information. The analysis answers real-world business questions such as identifying top-performing products, high-value customers, profitable products, and territories that contribute the most to overall company sales.
+* 📂 [View Repository](https://github.com/AnjoCabs/026-SalesAnalysis-SQL-Project/blob/main/026-SalesAnalysis-SQL-Project.sql)
+
+---
+
 ## Power BI Projects
 
 #### 1. 📦 Blinkit Sales & Marketing Dashboard Project
