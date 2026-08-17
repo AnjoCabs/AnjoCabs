@@ -1,6 +1,6 @@
 
 # Hi there, I'm Billy 👋
-### Data & Business Intelligence Analyst | Remote Professional
+### Data & Business Intelligence Analyst | Power BI Developer  | Remote Professional
 
 [![SQL Project](https://img.shields.io/badge/SQL_Projects-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](#sql-projects)
 [![Power BI Project](https://img.shields.io/badge/Power_BI_Projects-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#power-bi-projects)
