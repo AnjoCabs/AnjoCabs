@@ -26,6 +26,49 @@ I am an analytical and detail-driven Data Analyst with **2+ years of experience*
 | **Domain Specialties** | Inventory Valuation, Demand Forecasting (ABC/XYZ), Fleet Cost Tracking, Financial Dashboards |
 | **Tools & Platforms** | Git/GitHub, Streamlit, ERP Systems (Dynamics 365 BC concepts) |
 
+
+
+---
+
+## Power BI Projects
+
+#### 1. 📦 Blinkit Sales & Marketing Dashboard Project
+> **Tools:** Power BI, Power Query, DAX, Data Modeling
+* Power BI to provide an interactive overview of sales performance, customer engagement, marketing channels, inventory-related insights, and delivery performance. The dashboard tracks key KPIs such as Total Revenue, Conversion, Total Clicks, and Average Rating, while providing detailed visualizations of monthly revenue, product categories, target audiences, sales channels, delivery status, and reasons for delivery delays. The project demonstrates the use of Power BI, data modeling, DAX, KPI development, and interactive dashboard design to transform business data into actionable insights for decision-making.
+  
+<img width="1276" height="710" alt="blinkit" src="https://github.com/user-attachments/assets/51a3800c-c5bb-4523-81b5-bfa280eda0cf" />
+
+---
+
+#### 2. 📦 Supermarket Sales Dashboard Project
+> **Tools:** Power BI, Power Query, DAX, Data Modeling
+* Interactive overview of sales performance and key business metrics. It highlights total revenue, units sold, average price, transactions, and sales representative performance, while also analyzing monthly sales trends, product categories, regional performance, and sales by region and category. The dashboard demonstrates the use of Power BI, data modeling, DAX, interactive visualizations, KPI tracking, and business performance analysis to turn sales data into clear and actionable insights.
+  
+<img width="1407" height="781" alt="fahad store" src="https://github.com/user-attachments/assets/eb510ae2-1a67-4755-ae9f-a214d9484d93" />
+
+---
+
+#### 3. 📦 Healthcare Dashboard Project
+> **Tools:** Power BI, Power Query, DAX, Data Modeling
+* To provide a clear overview of healthcare financial and operational performance. It tracks key metrics such as Total Revenue, Net Revenue, Total Patients, Total Visits, Average Satisfaction, and Insurance Coverage, while analyzing revenue trends by month, department, insurance provider, and service type. The dashboard also provides insights into payment status, helping healthcare stakeholders monitor financial performance and identify areas for operational improvement.
+  
+<img width="1362" height="762" alt="healthcareanalytics" src="https://github.com/user-attachments/assets/95664396-10c1-433d-aa35-f1b651df1430" />
+
+---
+
+#### 4. 📦 Hospital Data & Emergency Response Dashboard Project
+> **Tools:** Power BI, Power Query, DAX, Data Modeling
+* To provide an interactive overview of patient volume, admissions, discharges, and emergency department performance. It tracks key metrics such as Total Patients, Admitted Patients, Discharged Patients, Average Wait Time, and Admission Rate, while analyzing patient trends by month, department, gender, race, age group, and referral department. The dashboard helps healthcare teams monitor patient flow, identify high-referral departments, and evaluate areas that may require operational improvement.
+  
+<img width="1371" height="765" alt="hospitaldataandemergencydashboard" src="https://github.com/user-attachments/assets/4c6cb3e5-5af0-401d-ba9e-6cdacc86c646" />
+
+---
+
+#### 5. 📦 Sales and Financial Performance Dashboard Project
+> **Tools:** Power BI, Power Query, DAX, Data Modeling
+* To provide a comprehensive view of business financial performance across revenue, profitability, products, territories, and operational metrics. The dashboard tracks key KPIs including Total Revenue, Cost of Goods Sold (COGS), Gross Profit, Profit Margin, Total Orders, Total Units Sold, and Average Order Value. It also analyzes revenue and profit trends over time, top-performing products, territory performance, and the impact of tax and freight costs on profitability. The project demonstrates the use of Power BI, DAX, data modeling, KPI development, and interactive visualizations to transform financial data into actionable insights that support strategic business decision-making.
+  
+<img width="1372" height="767" alt="SalesAndFinancial Dashboard" src="https://github.com/user-attachments/assets/7c750cb9-9d46-49ca-ad2b-7689c340fa9f" />
 ---
 
 ## SQL Projects
@@ -220,48 +263,6 @@ I am an analytical and detail-driven Data Analyst with **2+ years of experience*
 * This Sales & Finance Analysis SQL Project uses MySQL to analyze transactional sales data and generate meaningful business insights. The project focuses on evaluating sales performance, revenue, profitability, customer behavior, product performance, and sales territory contribution.
 * Using a structured fact-and-dimension data model, the project applies SQL techniques to transform raw transactional data into useful business information. The analysis answers real-world business questions such as identifying top-performing products, high-value customers, profitable products, and territories that contribute the most to overall company sales.
 * 📂 [View Repository](https://github.com/AnjoCabs/026-SalesAnalysis-SQL-Project/blob/main/026-SalesAnalysis-SQL-Project.sql)
-
----
-
-## Power BI Projects
-
-#### 1. 📦 Blinkit Sales & Marketing Dashboard Project
-> **Tools:** Power BI, Power Query, DAX, Data Modeling
-* Power BI to provide an interactive overview of sales performance, customer engagement, marketing channels, inventory-related insights, and delivery performance. The dashboard tracks key KPIs such as Total Revenue, Conversion, Total Clicks, and Average Rating, while providing detailed visualizations of monthly revenue, product categories, target audiences, sales channels, delivery status, and reasons for delivery delays. The project demonstrates the use of Power BI, data modeling, DAX, KPI development, and interactive dashboard design to transform business data into actionable insights for decision-making.
-  
-<img width="1276" height="710" alt="blinkit" src="https://github.com/user-attachments/assets/51a3800c-c5bb-4523-81b5-bfa280eda0cf" />
-
----
-
-#### 2. 📦 Supermarket Sales Dashboard Project
-> **Tools:** Power BI, Power Query, DAX, Data Modeling
-* Interactive overview of sales performance and key business metrics. It highlights total revenue, units sold, average price, transactions, and sales representative performance, while also analyzing monthly sales trends, product categories, regional performance, and sales by region and category. The dashboard demonstrates the use of Power BI, data modeling, DAX, interactive visualizations, KPI tracking, and business performance analysis to turn sales data into clear and actionable insights.
-  
-<img width="1407" height="781" alt="fahad store" src="https://github.com/user-attachments/assets/eb510ae2-1a67-4755-ae9f-a214d9484d93" />
-
----
-
-#### 3. 📦 Healthcare Dashboard Project
-> **Tools:** Power BI, Power Query, DAX, Data Modeling
-* To provide a clear overview of healthcare financial and operational performance. It tracks key metrics such as Total Revenue, Net Revenue, Total Patients, Total Visits, Average Satisfaction, and Insurance Coverage, while analyzing revenue trends by month, department, insurance provider, and service type. The dashboard also provides insights into payment status, helping healthcare stakeholders monitor financial performance and identify areas for operational improvement.
-  
-<img width="1362" height="762" alt="healthcareanalytics" src="https://github.com/user-attachments/assets/95664396-10c1-433d-aa35-f1b651df1430" />
-
----
-
-#### 4. 📦 Hospital Data & Emergency Response Dashboard Project
-> **Tools:** Power BI, Power Query, DAX, Data Modeling
-* To provide an interactive overview of patient volume, admissions, discharges, and emergency department performance. It tracks key metrics such as Total Patients, Admitted Patients, Discharged Patients, Average Wait Time, and Admission Rate, while analyzing patient trends by month, department, gender, race, age group, and referral department. The dashboard helps healthcare teams monitor patient flow, identify high-referral departments, and evaluate areas that may require operational improvement.
-  
-<img width="1371" height="765" alt="hospitaldataandemergencydashboard" src="https://github.com/user-attachments/assets/4c6cb3e5-5af0-401d-ba9e-6cdacc86c646" />
-
----
-
-#### 5. 📦 Sales and Financial Performance Dashboard Project
-> **Tools:** Power BI, Power Query, DAX, Data Modeling
-* To provide a comprehensive view of business financial performance across revenue, profitability, products, territories, and operational metrics. The dashboard tracks key KPIs including Total Revenue, Cost of Goods Sold (COGS), Gross Profit, Profit Margin, Total Orders, Total Units Sold, and Average Order Value. It also analyzes revenue and profit trends over time, top-performing products, territory performance, and the impact of tax and freight costs on profitability. The project demonstrates the use of Power BI, DAX, data modeling, KPI development, and interactive visualizations to transform financial data into actionable insights that support strategic business decision-making.
-  
-<img width="1372" height="767" alt="SalesAndFinancial Dashboard" src="https://github.com/user-attachments/assets/7c750cb9-9d46-49ca-ad2b-7689c340fa9f" />
 
 ---
 
